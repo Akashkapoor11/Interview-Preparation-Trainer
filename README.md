@@ -89,7 +89,7 @@ interview-trainer/
 
 ---
 
-##  System Architecture (from Thesis)
+##  System Architecture
 
 ```
 USER (Browser Microphone)
