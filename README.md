@@ -1,14 +1,10 @@
 # Interview Preparation Trainer using ML & Voice Interpretation
-### AKTU B.Tech Final Year Project — PSIT Kanpur, 2026
-
-**Team:** Akhil Nayan Mishra · Akash Kapoor · Anjali Yadav · Ananya Seth · Akhya Verma  
-**Supervisor:** Ms. Sonia Gupta (Assistant Professor, Dept. of CSE)
 
 ---
 
-## 🚀 Quick Start (Run in 3 steps)
+##  Quick Start (Run in 3 steps)
 
-### Step 1 — Install Python dependencies
+### Step 1 - Install Python dependencies
 ```bash
 cd backend
 pip install flask flask-cors flask-jwt-extended bcrypt python-dotenv librosa scikit-learn numpy scipy soundfile pydub
@@ -21,7 +17,7 @@ npm install
 npm run build
 ```
 
-### Step 3 — Run the server
+### Step 3 - Run the server
 ```bash
 cd backend
 python app.py
@@ -32,7 +28,7 @@ Open **http://localhost:5000** in your browser.
 ---
 
 ## ⚡ One-Click Start (Windows)
-Double-click **`run.bat`** — it installs everything and opens the server automatically.
+Double-click **`run.bat`** - it installs everything and opens the server automatically.
 
 ## ⚡ One-Click Start (Mac/Linux)
 ```bash
@@ -43,17 +39,17 @@ chmod +x run.sh && ./run.sh
 
 ## 🛠 Development Mode (Hot Reload)
 
-**Terminal 1 — Backend:**
+**Terminal 1 - Backend:**
 ```bash
 cd backend && python app.py
 ```
 
-**Terminal 2 — Frontend:**
+**Terminal 2 - Frontend:**
 ```bash
 cd frontend && npm run dev
 ```
 
-Open **http://localhost:3000** — frontend proxies API calls to Flask on port 5000.
+Open **http://localhost:3000** - frontend proxies API calls to Flask on port 5000.
 
 ---
 
@@ -159,7 +155,7 @@ Keywords · Vocab      SVM Confidence Score
 
 ---
 
-## 🗄 Database (SQLite — `backend/interview_trainer.db`)
+## 🗄 Database (SQLite - `backend/interview_trainer.db`)
 
 Tables: `users` · `sessions` · `questions` · `responses` · `nlp_analysis` · `audio_analysis` · `feedback` · `progress_report`
 
@@ -181,13 +177,5 @@ Tables: `users` · `sessions` · `questions` · `responses` · `nlp_analysis` ·
 ---
 
 ## 🎓 Project Info
-
-- **University:** Dr. APJ Abdul Kalam Technical University (AKTU), Lucknow
-- **Institute:** Pranveer Singh Institute of Technology, Kanpur
-- **Department:** Computer Science & Engineering
-- **Degree:** Bachelor of Technology (B.Tech)
-- **Year:** 2026
-
----
 
 *Built with: Python · Flask · SQLite · React · Vite · Recharts · Librosa · Scikit-learn · Web Speech API*
