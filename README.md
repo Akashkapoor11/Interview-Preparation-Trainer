@@ -27,17 +27,17 @@ Open **http://localhost:5000** in your browser.
 
 ---
 
-## ⚡ One-Click Start (Windows)
+##  One-Click Start (Windows)
 Double-click **`run.bat`** - it installs everything and opens the server automatically.
 
-## ⚡ One-Click Start (Mac/Linux)
+##  One-Click Start (Mac/Linux)
 ```bash
 chmod +x run.sh && ./run.sh
 ```
 
 ---
 
-## 🛠 Development Mode (Hot Reload)
+##  Development Mode (Hot Reload)
 
 **Terminal 1 - Backend:**
 ```bash
@@ -53,7 +53,7 @@ Open **http://localhost:3000** - frontend proxies API calls to Flask on port 500
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 
 ```
 interview-trainer/
@@ -89,7 +89,7 @@ interview-trainer/
 
 ---
 
-## 🔬 System Architecture (from Thesis)
+##  System Architecture (from Thesis)
 
 ```
 USER (Browser Microphone)
@@ -114,7 +114,7 @@ Keywords · Vocab      SVM Confidence Score
 
 ---
 
-## 📊 API Endpoints
+##  API Endpoints
 
 | Method | Endpoint | Description |
 |--------|----------|-------------|
@@ -130,7 +130,7 @@ Keywords · Vocab      SVM Confidence Score
 
 ---
 
-## 🧠 ML/NLP Pipeline Details
+##  ML/NLP Pipeline Details
 
 ### NLP Analysis Module (`modules/nlp_analysis.py`)
 - **Grammar**: Pattern-matching rules + filler word detection + sentence structure
@@ -155,7 +155,7 @@ Keywords · Vocab      SVM Confidence Score
 
 ---
 
-## 🗄 Database (SQLite - `backend/interview_trainer.db`)
+## Database (SQLite - `backend/interview_trainer.db`)
 
 Tables: `users` · `sessions` · `questions` · `responses` · `nlp_analysis` · `audio_analysis` · `feedback` · `progress_report`
 
@@ -163,7 +163,7 @@ Tables: `users` · `sessions` · `questions` · `responses` · `nlp_analysis` ·
 
 ---
 
-## ⚙️ Requirements
+##  Requirements
 
 | Component | Requirement |
 |-----------|-------------|
@@ -176,6 +176,6 @@ Tables: `users` · `sessions` · `questions` · `responses` · `nlp_analysis` ·
 
 ---
 
-## 🎓 Project Info
+##  Project Info
 
 *Built with: Python · Flask · SQLite · React · Vite · Recharts · Librosa · Scikit-learn · Web Speech API*
