@@ -53,6 +53,10 @@ Open **http://localhost:3000** - frontend proxies API calls to Flask on port 500
 
 ---
 
+<img width="1063" height="605" alt="Image" src="https://github.com/user-attachments/assets/b63aa6b7-fd31-4da4-b486-61670296a89e" />
+
+<img width="1063" height="674" alt="Image" src="https://github.com/user-attachments/assets/265f1f16-df00-4ba5-af0e-b3663f753c7b" />
+
 ##  Project Structure
 
 ```
@@ -114,6 +118,12 @@ Keywords · Vocab      SVM Confidence Score
 
 ---
 
+<img width="1063" height="798" alt="Image" src="https://github.com/user-attachments/assets/b3f32b14-2436-48b5-8b37-08031b9abc11" />
+
+<img width="1063" height="719" alt="Image" src="https://github.com/user-attachments/assets/7a101849-1655-4437-86bc-d8d123af0fb3" />
+
+
+
 ##  API Endpoints
 
 | Method | Endpoint | Description |
@@ -154,6 +164,7 @@ Keywords · Vocab      SVM Confidence Score
 - Grade: A+ (≥90) · A (≥80) · B (≥70) · C (≥60) · D (≥50) · F (<50)
 
 ---
+<img width="1063" height="701" alt="Image" src="https://github.com/user-attachments/assets/1d7a445c-22f0-439a-a178-409390581c6b" />
 
 ## Database (SQLite - `backend/interview_trainer.db`)
 
